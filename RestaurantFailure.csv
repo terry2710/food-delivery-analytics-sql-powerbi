@@ -1,0 +1,6 @@
+Restaurant_name,total_orders,delivered_orders,failed_orders,failure_rate,avg_kpt_minutes,avg_rider_wait_minutes
+"Dilli Burger Adda",227,223,4,0.0176,19.41,5.09
+"Tandoori Junction",154,151,2,0.0130,21.26,6.18
+"Aura Pizzas",14548,14417,108,0.0074,17.08,4.94
+Swaad,6332,6282,43,0.0068,17.77,4.51
+"The Chicken Junction",32,32,0,0.0000,15.55,7.26

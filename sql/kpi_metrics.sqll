@@ -1,0 +1,13 @@
+-- Daily KPI metrics
+SELECT
+    order_date AS dt,
+    COUNT(DISTINCT user_id) AS daily_users,
+    COUNT(order_id) AS total_orders,
+    SUM(order_amount) AS revenue,
+    ROUND(AVG(order_amount), 2) AS aov
+FROM orders
+WHERE status = 'completed'
+GROUP BY order_date
+ORDER BY order_date;
+
+

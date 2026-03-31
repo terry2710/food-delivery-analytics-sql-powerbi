@@ -1,0 +1,9 @@
+Subzone,delivered_orders,restaurant_count,avg_orders_per_restaurant,active_days,avg_daily_orders,peak_hour_orders,peak_hour,avg_distance_km,avg_kpt_minutes,avg_rider_wait_minutes
+"Greater Kailash 2 (GK2)",7311,4,1827.75,153,47.78,974,20,3.42,17.97,3.69
+"Sector 4",6463,6,1077.17,153,42.24,812,20,4.79,16.27,5.68
+"DLF Phase 1",3653,4,913.25,153,23.88,483,20,4.75,18.89,5.78
+"Sector 135",2426,4,606.50,153,15.86,416,20,3.98,15.75,5.05
+"Vasant Kunj",916,1,916.00,127,7.21,151,20,3.92,17.44,3.15
+Shahdara,359,3,119.67,73,4.92,64,20,3.7,18.47,5.57
+"Chittaranjan Park",2,1,2.00,2,1.00,1,2,5,14.32,9.9
+Sikandarpur,1,1,1.00,1,1.00,1,23,4,15.87,5.5

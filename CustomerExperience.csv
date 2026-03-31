@@ -1,0 +1,10 @@
+prep_bucket,rider_wait_bucket,delivered_orders,avg_rating,reviewed_orders,complaint_orders,complaint_rate,ready_marked_correct_rate
+"Slow Prep (25m+)","High Wait (10m+)",983,4.37,13,34,0.0346,0.8403
+"Normal Prep (15-25m)","Medium Wait (5-10m)",2989,4.41,38,69,0.0231,0.8759
+"Normal Prep (15-25m)","Low Wait (<5m)",6181,4.33,92,139,0.0225,0.9523
+"Slow Prep (25m+)","Low Wait (<5m)",670,4.52,9,15,0.0224,0.7687
+"Fast Prep (<15m)","Low Wait (<5m)",6225,4.34,89,138,0.0222,0.9640
+"Fast Prep (<15m)","High Wait (10m+)",289,4.19,1,6,0.0208,0.5017
+"Normal Prep (15-25m)","High Wait (10m+)",1848,4.4,32,34,0.0184,0.8187
+"Fast Prep (<15m)","Medium Wait (5-10m)",1489,4.28,17,26,0.0175,0.7938
+"Slow Prep (25m+)","Medium Wait (5-10m)",457,4.39,5,8,0.0175,0.7505

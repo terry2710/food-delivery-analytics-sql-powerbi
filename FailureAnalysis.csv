@@ -1,0 +1,128 @@
+order_status_clean,failure_reason,Restaurant_name,City,order_weekday,order_hour,failed_orders,total_compensation,total_penalty,avg_distance_km,avg_kpt_minutes,avg_rider_wait_minutes
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Tuesday,14,3,3908.93,0,6.33,19.97,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Friday,15,3,939.73,0,5.83,15.77,1.6
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Saturday,13,3,762.48,0,2.33,18.48,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Tuesday,21,3,667.41,0,3.67,13.32,2.4
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Tuesday,22,3,160.48,0,10.33,NULL,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Saturday,22,3,108.78,0,0.83,NULL,NULL
+Rejected,"Merchant device issue","Aura Pizzas","Delhi NCR",Wednesday,18,3,0,0,1,NULL,NULL
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Friday,23,2,2006.74,0,6.5,17.35,0.3
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Wednesday,21,2,1288.31,0,9,14.77,0.4
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Saturday,1,2,784.51,0,13,16.75,2.8
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Thursday,3,2,783.33,0,8.5,13.28,4.7
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Saturday,0,2,592.1,0,8.5,14.38,2.1
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Wednesday,20,2,531.14,0,2,21.75,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Monday,0,2,508.87,0,5,12.07,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Wednesday,1,2,397.84,0,5,18.85,NULL
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Friday,13,2,388.5,0,4.5,23.88,NULL
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Saturday,1,2,371.7,0,4.5,NULL,NULL
+Rejected,"Cancelled by Zomato",Swaad,"Delhi NCR",Tuesday,18,2,365.71,0,3,16.02,4.8
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Friday,21,2,347.76,0,4.5,NULL,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Thursday,21,2,280.56,0,2.75,NULL,NULL
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Monday,15,2,102.9,0,3,NULL,NULL
+Rejected,"Merchant device issue","Aura Pizzas","Delhi NCR",Tuesday,15,2,0,0,2.5,NULL,NULL
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Friday,18,2,0,0,6,NULL,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Tuesday,14,2,0,0,4,NULL,NULL
+Rejected,"Cancelled by Customer","Dilli Burger Adda","Delhi NCR",Wednesday,23,2,0,0,5.5,NULL,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Tuesday,17,1,1078.85,0,12,20.15,NULL
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Monday,12,1,996.03,0,1,23.32,11.9
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Friday,21,1,959.72,0,2,15.15,0.6
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Thursday,18,1,943.41,0,7,21.48,0.4
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Sunday,20,1,764.48,0,5,16.92,0.2
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Tuesday,18,1,757.65,0,4,NULL,NULL
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Friday,19,1,637.14,0,4,NULL,NULL
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Saturday,1,1,575.1,0,2,14.88,0.5
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Sunday,18,1,480.97,0,4,12.55,7.3
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Monday,15,1,473.94,0,3,7.13,2.5
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Wednesday,0,1,471.34,0,1,23.12,0.8
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Sunday,17,1,451.33,0,2,14.28,3.9
+Rejected,"Cancelled by Zomato",Swaad,"Delhi NCR",Thursday,3,1,433.41,0,10,11.33,4.4
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Wednesday,23,1,419.7,0,18,18.43,8.5
+Rejected,"Cancelled by Zomato",Swaad,"Delhi NCR",Thursday,23,1,404.48,0,1,16.1,NULL
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Tuesday,0,1,391.05,0,4,21.2,6.1
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Monday,23,1,385.95,0,2,17.87,NULL
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Thursday,14,1,381.41,0,2,17.55,4.2
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Tuesday,22,1,360.91,0,15,12.42,0.3
+Rejected,"Cancelled by Zomato",Swaad,"Delhi NCR",Saturday,20,1,360.91,0,7,12.42,2
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Thursday,20,1,360.17,0,3,22.25,7.3
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Saturday,12,1,356.16,0,9,NULL,NULL
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Saturday,21,1,356.16,0,1,NULL,NULL
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Thursday,12,1,351.53,0,1,28.23,16.2
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Friday,17,1,339.36,0,0.5,NULL,NULL
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Tuesday,20,1,330.37,0,7,NULL,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Saturday,2,1,318.36,0,1,NULL,NULL
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Friday,12,1,301.98,0,7,NULL,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Saturday,14,1,300.64,0,11,13.13,0.7
+Rejected,"Cancelled by Customer","Tandoori Junction","Delhi NCR",Thursday,21,1,275.18,0,6,NULL,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Monday,18,1,272.58,0,6,NULL,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Saturday,0,1,264.18,0,3,NULL,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Saturday,16,1,264.18,0,3,NULL,NULL
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Thursday,22,1,258.65,0,6,11.83,1.7
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Tuesday,20,1,252.42,0,2,6.72,4.6
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Sunday,21,1,251.58,0,7,NULL,NULL
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Wednesday,0,1,247.94,0,2,12.17,2.1
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Wednesday,17,1,245.7,0,3,NULL,NULL
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Saturday,23,1,241.59,0,1,NULL,NULL
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Tuesday,23,1,237.3,0,2,NULL,NULL
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Tuesday,13,1,233.58,0,9,18.2,3.3
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Friday,12,1,230.7,0,10,NULL,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Tuesday,0,1,226.7,0,7,NULL,NULL
+Rejected,"Cancelled by Zomato","Dilli Burger Adda","Delhi NCR",Friday,16,1,220.5,0,4,NULL,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Friday,13,1,219.22,0,4,13.28,NULL
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Monday,1,1,217.56,0,13,NULL,NULL
+Rejected,"Cancelled by Zomato",Swaad,"Delhi NCR",Wednesday,23,1,214.32,0,0.5,18.47,NULL
+Rejected,"Cancelled by Zomato",Swaad,"Delhi NCR",Tuesday,12,1,213.98,0,3,NULL,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Wednesday,22,1,205.38,0,5,NULL,NULL
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Monday,19,1,204.12,0,7,NULL,NULL
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Saturday,0,1,192.15,0,9,8.43,0.8
+Rejected,"Cancelled by Zomato",Swaad,"Delhi NCR",Tuesday,17,1,187.14,0,4,22.57,NULL
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Monday,17,1,187.14,0,9,22.48,NULL
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Tuesday,18,1,187.14,0,9,36.5,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Tuesday,15,1,171.78,0,5,NULL,NULL
+Rejected,"Cancelled by Zomato",Swaad,"Delhi NCR",Thursday,1,1,166.02,0,8,14.43,NULL
+Rejected,"Cancelled by Zomato",Swaad,"Delhi NCR",Tuesday,3,1,165.77,0,6,14.12,5.7
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Wednesday,17,1,163.05,0,4,10.38,3.7
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Thursday,14,1,162.96,0,10,NULL,NULL
+Rejected,"Cancelled by Zomato",Swaad,"Delhi NCR",Thursday,20,1,158.23,0,2,14.95,5.6
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Friday,16,1,150.78,0,4,NULL,NULL
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Monday,20,1,149.1,0,1,NULL,NULL
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Tuesday,19,1,136.5,0,3,NULL,NULL
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Wednesday,21,1,132.82,0,5,NULL,NULL
+Rejected,"Cancelled by Zomato",Swaad,"Delhi NCR",Wednesday,16,1,122.42,0,1,4.67,4
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Tuesday,19,1,118.17,0,5,10.75,NULL
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Friday,0,1,115.5,0,5,NULL,NULL
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Sunday,19,1,114.92,0,4,13.85,1
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Saturday,23,1,103.07,0,3,0.63,1.2
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Wednesday,2,1,103.01,0,2,4.5,1.4
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Tuesday,23,1,100.38,0,0.5,NULL,NULL
+Rejected,"Cancelled by Customer","Masala Junction","Delhi NCR",Thursday,19,1,83.58,0,1,12.83,NULL
+Rejected,"Cancelled by Zomato","Dilli Burger Adda","Delhi NCR",Friday,19,1,0,0,5,NULL,NULL
+Rejected,"Merchant device issue","Aura Pizzas","Delhi NCR",Wednesday,12,1,0,0,1,NULL,NULL
+Rejected,"Merchant device issue","Tandoori Junction","Delhi NCR",Saturday,1,1,0,0,3,NULL,NULL
+Rejected,"Cancelled by Zomato",Swaad,"Delhi NCR",Tuesday,19,1,0,0,3,10.62,NULL
+Rejected,"Merchant device issue","Aura Pizzas","Delhi NCR",Tuesday,14,1,0,0,5,NULL,NULL
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Wednesday,18,1,0,0,5,NULL,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Saturday,17,1,0,0,2,NULL,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Sunday,1,1,0,0,2,NULL,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Thursday,12,1,0,0,7,NULL,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Thursday,23,1,0,0,8,NULL,NULL
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Friday,17,1,0,0,2,NULL,NULL
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Friday,3,1,0,0,3,NULL,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Wednesday,3,1,0,0,1,NULL,NULL
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Friday,18,1,0,0,3,NULL,NULL
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Friday,21,1,0,0,2,NULL,NULL
+Rejected,"Cancelled by Customer",Swaad,"Delhi NCR",Thursday,11,1,0,0,5,NULL,NULL
+Rejected,"Cancelled by Zomato","Aura Pizzas","Delhi NCR",Saturday,2,1,0,0,1,NULL,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Friday,14,1,0,0,2,NULL,NULL
+Rejected,"Kitchen is full",Swaad,"Delhi NCR",Monday,23,1,0,0,6,9.25,NULL
+Rejected,"Merchant device issue","Aura Pizzas","Delhi NCR",Saturday,1,1,0,0,4,NULL,NULL
+Rejected,"Merchant device issue","Aura Pizzas","Delhi NCR",Sunday,14,1,0,0,6,NULL,NULL
+Rejected,"Kitchen is full","Aura Pizzas","Delhi NCR",Sunday,13,1,0,0,5,NULL,NULL
+Rejected,"Merchant device issue","Aura Pizzas","Delhi NCR",Sunday,13,1,0,0,1,NULL,NULL
+Rejected,"Items out of stock","Aura Pizzas","Delhi NCR",Thursday,22,1,0,0,7,NULL,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Saturday,19,1,0,0,10,NULL,NULL
+Rejected,"Merchant device issue","Aura Pizzas","Delhi NCR",Friday,1,1,0,0,6,NULL,NULL
+Rejected,"Kitchen is full","Aura Pizzas","Delhi NCR",Friday,1,1,0,0,12,NULL,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Saturday,3,1,0,0,3,NULL,NULL
+"Timed Out",NULL,"Masala Junction","Delhi NCR",Wednesday,21,1,0,0,11,NULL,NULL
+Rejected,"Cancelled by Customer","Aura Pizzas","Delhi NCR",Thursday,13,1,0,0,0.5,NULL,NULL

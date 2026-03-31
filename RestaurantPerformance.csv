@@ -1,0 +1,25 @@
+Restaurant_ID,Restaurant_name,City,Subzone,total_orders,unique_customers,total_revenue,avg_order_value,avg_discount_rate,avg_rating,avg_kpt_minutes,avg_rider_wait_minutes
+20659868,"Aura Pizzas","Delhi NCR","Sector 4",4574,2693,3449430.6,754.14,0.1231,4.33,16.39,5.84
+20635699,"Aura Pizzas","Delhi NCR","Greater Kailash 2 (GK2)",4369,2533,3065554.62,701.66,0.1201,4.34,17.61,3.76
+20882652,"Aura Pizzas","Delhi NCR","DLF Phase 1",2523,1581,1946571.08,771.53,0.1206,4.33,18.87,5.87
+20554001,Swaad,"Delhi NCR","Greater Kailash 2 (GK2)",2765,1427,1531361.51,553.84,0.1765,4.45,18.33,3.58
+21077127,"Aura Pizzas","Delhi NCR","Sector 135",2035,1312,1498055.32,736.15,0.12,4.2,15.16,5.11
+20320607,Swaad,"Delhi NCR","Sector 4",1750,900,928344.73,530.48,0.1758,4.38,15.86,5.17
+21173951,"Aura Pizzas","Delhi NCR","Vasant Kunj",916,630,687580.04,750.63,0.0818,4.35,17.44,3.15
+20882713,Swaad,"Delhi NCR","DLF Phase 1",1070,619,597911.64,558.8,0.1547,4.54,18.91,5.55
+21309083,Swaad,"Delhi NCR","Sector 135",367,239,238993.16,651.21,0.0868,4.39,18.89,4.66
+21309083,Swaad,"Delhi NCR",Shahdara,330,209,227862.33,690.49,0.0751,4.07,18.46,5.4
+21143186,"Tandoori Junction","Delhi NCR","Greater Kailash 2 (GK2)",71,47,64495.7,908.39,0,4.5,22.77,4.83
+20968206,"Dilli Burger Adda","Delhi NCR","Greater Kailash 2 (GK2)",106,79,50451.42,475.96,0.2841,4.12,20.12,3.27
+21145152,"Tandoori Junction","Delhi NCR","Sector 4",37,25,33698.16,910.76,0,5,19.51,6.49
+20968194,"Dilli Burger Adda","Delhi NCR","Sector 4",47,31,21448.76,456.36,0.3026,4.29,19.5,8.22
+21350931,"Tandoori Junction","Delhi NCR","DLF Phase 1",27,22,18983.54,703.09,0,4.5,20.82,7.7
+21424296,"Tandoori Junction","Delhi NCR",Shahdara,15,13,13441.05,896.07,0,4.5,17.5,7.21
+20968171,"Dilli Burger Adda","Delhi NCR","DLF Phase 1",33,29,11059.19,335.13,0.3424,4,18.43,4.98
+21467269,"The Chicken Junction","Delhi NCR","Sector 4",29,28,10990.37,378.98,0.1538,4.69,15.58,7.13
+21114574,"Dilli Burger Adda","Delhi NCR","Sector 135",23,17,9071.1,394.4,0.3413,5,17.32,5.5
+21523055,"Masala Junction","Delhi NCR","Sector 4",26,26,8586.9,330.27,0.12,4.83,13.7,4.57
+21114574,"Dilli Burger Adda","Delhi NCR",Shahdara,14,13,7199.04,514.22,0.265,5,19.59,7.95
+21467440,"The Chicken Junction","Delhi NCR","Chittaranjan Park",2,2,949.62,474.81,0.15,NULL,14.32,9.9
+21424296,"Tandoori Junction","Delhi NCR","Sector 135",1,1,898.88,898.88,0,5,24.93,18.9
+21467512,"The Chicken Junction","Delhi NCR",Sikandarpur,1,1,441,441,0.17,NULL,15.87,5.5
